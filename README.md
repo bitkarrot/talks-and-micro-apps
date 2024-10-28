@@ -7,9 +7,11 @@
 - [LNBits Workshop](/2024JAN_LNBitsWorkshop.pdf) - Jan 2024
 
 ## Related articles
+ - [Why Nostr Wins](https://bitkarrot.substack.com/p/why-nostr-wins) - 2023
  - [Lightning Prisms with LNBits](https://bitkarrot.substack.com/p/lightning-prisms-with-lnbits) - Bolt 11 2023
  - [Merchant Payment Options on lightning](https://bitkarrot.substack.com/p/elderberry-syrup-for-lightning-payments) - 2023
  - [Bitcoin and lightning Faucets](https://bitkarrot.substack.com/p/testnet-bitcoin-and-lightning-faucets) - 2023
+ - [Physical Proof of Work](https://bitkarrot.substack.com/p/physical-proof-of-work) - 2023
 
 
 ## Referenced in talks
