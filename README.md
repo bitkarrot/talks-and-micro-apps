@@ -1,4 +1,4 @@
-# Talks
+# Talks and Micro Apps
 
 ## Slides from Bitkarrot's past talks
 
