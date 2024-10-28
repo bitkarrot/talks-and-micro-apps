@@ -38,7 +38,9 @@
 
 - [NpubLogin](https://github.com/bitkarrot/npublogin) - Simple nostr login examples
 
-- [PostaNota](https://github.com/bitkarrot/posta-nota) -  A simple nostr kind 1 posting app. No distractions, no nonsense, only posting to help you stay focused and efficient at producing content. [https://postanota.hivetalk.org](https://postanota.hivetalk.org)
+- [Zaplist](https://zaplist.hivetalk.org/) - A simple Nostr micro app that will Generate a grid of who sent you zaps, so you can add it to a blog or project page and thank them for their support. Inspired by contrib.rocks
+
+- [PostaNota](https://github.com/bitkarrot/posta-nota) -  A simple Nostr kind 1 posting app. No distractions, no nonsense, only posting to help you stay focused and efficient at producing content. [https://postanota.hivetalk.org](https://postanota.hivetalk.org)
 
 ### Libraries
 - [pylnbits](https://github.com/lightningames/pylnbits) - A python library that consumes the LNbits API and some extensions. Useful for quickly writing multi user applications. Some uses cases include AI bot or telegram bot.
