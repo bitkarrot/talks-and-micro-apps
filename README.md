@@ -2,14 +2,14 @@
 
 ## Slides from Bitkarrot's past talks
 
-- [Unwritten Rules of FOSS](/2023NOV_Unwritten%20Rules%20of%20FOSS.pdf)
-- [Lightning Payments Overview](/2023OCT_LightningPaymentsWorkshop.pdf)
-- [LNBits Workshop - Jan 2024](/2024JAN_LNBitsWorkshop.pdf)
+- [Unwritten Rules of FOSS](/2023NOV_Unwritten%20Rules%20of%20FOSS.pdf) - 2023
+- [Lightning Payments Overview](/2023OCT_LightningPaymentsWorkshop.pdf) - 2023
+- [LNBits Workshop](/2024JAN_LNBitsWorkshop.pdf) - Jan 2024
 
 ## Related articles
- - [Lightning Prisms with LNBits](https://bitkarrot.substack.com/p/lightning-prisms-with-lnbits)
- - [Merchant Payment Options on lightning](https://bitkarrot.substack.com/p/elderberry-syrup-for-lightning-payments)
- - [Bitcoin and lightning Faucets](https://bitkarrot.substack.com/p/testnet-bitcoin-and-lightning-faucets)
+ - [Lightning Prisms with LNBits](https://bitkarrot.substack.com/p/lightning-prisms-with-lnbits) - Bolt 11 2023
+ - [Merchant Payment Options on lightning](https://bitkarrot.substack.com/p/elderberry-syrup-for-lightning-payments) - 2023
+ - [Bitcoin and lightning Faucets](https://bitkarrot.substack.com/p/testnet-bitcoin-and-lightning-faucets) - 2023
 
 
 ## Referenced in talks
