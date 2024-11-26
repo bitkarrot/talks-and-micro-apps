@@ -30,6 +30,14 @@
   
 ### Microapps
 
+- [NIP98 sample code](https://github.com/bitkarrot/NIP98-js-client) - NIP98 client demo in vanilla js (API auth in another repo) 
+
+- [NpubLogin](https://github.com/bitkarrot/npublogin) - Simple nostr login examples
+
+- [Zaplist](https://zaplist.hivetalk.org/) - A simple Nostr micro app that will Generate a grid of who sent you zaps, so you can add it to a blog or project page and thank them for their support. Inspired by contrib.rocks
+
+- [PostaNota](https://github.com/bitkarrot/posta-nota) -  A simple Nostr kind 1 posting app. No distractions, no nonsense, only posting to help you stay focused and efficient at producing content. [https://postanota.hivetalk.org](https://postanota.hivetalk.org)
+
 - [Sendsats.to](https://sendsats.to) - A way to autogenerate a lightning invoice based on a lightning address.
 
 - [LNBits - Simple Registration Form with LNBits pay button + Airtable](https://github.com/bitkarrot/simple-reg-lnbits-form/) - Similar to BTCPay button but automatically generates an invoice.
@@ -37,12 +45,6 @@
 - [LNBits - SatsPaySession](https://github.com/bitkarrot/satspaysession/) - This micro app delivers a custom Invoice amount from the SatsPayExtension fron LNbits through a static link.
 
 - [LNBits - LaiseeBot](https://github.com/bitkarrot/laiseebot/) - Experimental 2021 Gift cards for CNY Red Envelopes delivered through a telegram bot. (This app now retired)
-
-- [NpubLogin](https://github.com/bitkarrot/npublogin) - Simple nostr login examples
-
-- [Zaplist](https://zaplist.hivetalk.org/) - A simple Nostr micro app that will Generate a grid of who sent you zaps, so you can add it to a blog or project page and thank them for their support. Inspired by contrib.rocks
-
-- [PostaNota](https://github.com/bitkarrot/posta-nota) -  A simple Nostr kind 1 posting app. No distractions, no nonsense, only posting to help you stay focused and efficient at producing content. [https://postanota.hivetalk.org](https://postanota.hivetalk.org)
 
 ### Libraries
 - [pylnbits](https://github.com/lightningames/pylnbits) - A python library that consumes the LNbits API and some extensions. Useful for quickly writing multi user applications. Some uses cases include AI bot or telegram bot.
