@@ -1,14 +1,6 @@
 # Talks and Micro Apps
 
-### LNBits Extensions and Related Repos
-
-- [Decoder](https://github.com/bitkarrot/decoder) - An LNBits Extension for decoding invoices. see [video](/LNBitsDecoderVideo.mp4)
-
-- [Scheduler](https://github.com/bitkarrot/scheduler/) - A LNBits Extension for automating any REST API call through cronjobs. see [video](/LNBitsSchedulerVideo.mp4)
-
-- [Lnbits-phoenixd](https://github.com/bitkarrot/lnbits-phoenixd/) - Run a super light, simple Lightning node (phoenixd) together with LNBits within Docker.
-  
-### Microapps and Demos
+### Nostr and Lightning Microapps
 
 - [NIP98 sample code](https://github.com/bitkarrot/NIP98-js-client) - NIP98 client demo in vanilla js (API auth in another repo) 
 - [NIP42 auth](https://github.com/bitkarrot/relay-auth-test) - Nostr NIP-42 AUTH with Kind 30078 Events - Vanilla & Astro Implementation
@@ -25,6 +17,15 @@
 - [LNBits - SatsPaySession](https://github.com/bitkarrot/satspaysession/) - This micro app delivers a custom Invoice amount from the SatsPayExtension fron LNbits through a static link.
 
 - [LNBits - LaiseeBot](https://github.com/bitkarrot/laiseebot/) - Experimental 2021 Gift cards for CNY Red Envelopes delivered through a telegram bot. (This app now retired)
+
+### LNBits Extensions and Related Repos
+
+- [Decoder](https://github.com/bitkarrot/decoder) - An LNBits Extension for decoding invoices. see [video](/LNBitsDecoderVideo.mp4)
+
+- [Scheduler](https://github.com/bitkarrot/scheduler/) - A LNBits Extension for automating any REST API call through cronjobs. see [video](/LNBitsSchedulerVideo.mp4)
+
+- [Lnbits-phoenixd](https://github.com/bitkarrot/lnbits-phoenixd/) - Run a super light, simple Lightning node (phoenixd) together with LNBits within Docker.
+  
 
 ### Libraries
 - [pylnbits](https://github.com/lightningames/pylnbits) - A python library that consumes the LNbits API and some extensions. Useful for quickly writing multi user applications. Some uses cases include AI bot or telegram bot.
