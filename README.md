@@ -1,7 +1,8 @@
 # Talks and Micro Apps
 
-### Nostr and Lightning Microapps
+### Nostr and Lightning 
 
+- [Swarm: Nostr Team Relay](https://github.com/HiveTalk/swarm) - an improved fork of bitvora/team-relay, built on khatru for the hivetalk team
 - [NIP98 sample code](https://github.com/bitkarrot/NIP98-js-client) - NIP98 client demo in vanilla js (API auth in another repo) 
 - [NIP42 auth](https://github.com/bitkarrot/relay-auth-test) - Nostr NIP-42 AUTH with Kind 30078 Events - Vanilla & Astro Implementation
 - [NpubLogin](https://github.com/bitkarrot/npublogin) - Simple nostr login examples
