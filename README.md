@@ -37,6 +37,21 @@
 - [Lightning Payments Overview](/2023OCT_LightningPaymentsWorkshop.pdf) - 2023
 - [LNBits Workshop](/2024JAN_LNBitsWorkshop.pdf) - Jan 2024
 
+## Media Coverage
+
+### HiveTalk
+- [Linux Unplugged: All Your Silos are Broken](https://www.jupiterbroadcasting.com/show/linux-unplugged/568/)
+- [Episode 911 of Bitcoin And . . .](https://fountain.fm/episode/yZfExb9O9pVHjaeAPvQl)
+- [NoBsBitcoin Daily update](https://www.nobsbitcoin.com/gm-2024-07-08/)
+- [Guy Swann on TPR - 004 - Monetizing Freedom - Ostriches, Pears, and Open Source Challenges with Bitkarrot ](https://www.youtube.com/watch?v=pesH_pDJvWk)
+- [Lightning Labs Newsletter - Aug 14, 2024](https://lightninglabs.substack.com/p/money-at-the-speed-of-lightning-the)
+- [Simply Bitcoin: CULTURE: Open Source Development w/ @BITKARROT](https://www.youtube.com/live/R4cWjMXNg6I?t=2964s)
+
+### Podcasting
+- [Nostrovia Podcast](https://github.com/nostrovia) - Nostr's First Podcast
+- [Guy Swann - Nostropolis and Beyond- Chat 78](https://bitcoin-audible.castos.com/episodes/chat-78-to-nostropolis-beyond-with-bitkarrot)
+- [Lightning w/ Bitkarrot | FIAT LUX Podcast #8 - YouTube](https://www.youtube.com/watch?v=3GFk0UGSIEA)
+
 ## Related articles
  - [Why Nostr Wins](https://bitkarrot.substack.com/p/why-nostr-wins) - 2023
  - [Lightning Prisms with LNBits](https://bitkarrot.substack.com/p/lightning-prisms-with-lnbits) - Bolt 11 2023
