@@ -2,7 +2,7 @@
 
 ### Nostr and Lightning 
 
-- [Swarm: Nostr Team Relay](https://github.com/HiveTalk/swarm) - a blossom and nostr team relay, built on khatru for the hivetalk team (fork of bitvora/team-relay)
+- [Swarm: Nostr Team Relay](https://github.com/HiveTalk/swarm) - a blossom and nostr team relay, with extended features built on khatru
 - [NIP98 sample code](https://github.com/bitkarrot/NIP98-js-client) - NIP98 client demo in vanilla js (API auth in another repo) 
 - [NIP42 auth](https://github.com/bitkarrot/relay-auth-test) - Nostr NIP-42 AUTH with Kind 30078 Events - Vanilla & Astro Implementation
 - [NpubLogin](https://github.com/bitkarrot/npublogin) - Simple nostr login examples
